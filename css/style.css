@@ -1,0 +1,32 @@
+.block {
+	background:#eee;
+	border: 1px solid #ccc;
+
+}
+hr {
+	border-color: #ccc;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+.icon {
+	color: green;
+	font-size: 50px;
+	
+	top:0;
+	left:0;
+	position: relative;
+}
+.icon:hover {
+	color: #5FC637;
+	top:-10px;
+	left:10px;
+}
+
+.btn-2 {
+   
+    background-color: #16BA48;
+   
+}
